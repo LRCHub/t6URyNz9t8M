@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Devil",
+  "base_artist": "Papa Roach",
+  "createdAt": "2026-02-17T08:40:25.781409Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Between the Devil and Me",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/01_Between_the_Devil_and_Me_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Between the Devil and Me",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/02_Between_the_Devil_and_Me_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Devil In The Bottle",
+      "artist": "T.G. Sheppard",
+      "has_synced": true,
+      "path": "select/03_Devil_In_The_Bottle_T.G._Sheppard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Devil Woman",
+      "artist": "Marty Robbins",
+      "has_synced": true,
+      "path": "select/04_Devil_Woman_Marty_Robbins.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Devil Woman (Album Version)",
+      "artist": "Marty Robbins",
+      "has_synced": true,
+      "path": "select/05_Devil_Woman_(Album_Version)_Marty_Robbins.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Devil In A Sleepin' Bag",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/06_Devil_In_A_Sleepin'_Bag_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Devil in a Sleepin' Bag (LP Version)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/07_Devil_in_a_Sleepin'_Bag_(LP_Version)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "If the Devil Danced (In Empty Pockets)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/08_If_the_Devil_Danced_(In_Empty_Pockets)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "If The Devil Danced (In Empty Pockets) (Album Version)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/09_If_The_Devil_Danced_(In_Empty_Pockets)_(Album_Version)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "If You're Going Through Hell (Before The Devil Even Knows)",
+      "artist": "Rodney Atkins",
+      "has_synced": true,
+      "path": "select/10_If_You're_Going_Through_Hell_(Before_The_Devil_Even_Knows)_Rodney_Atkins.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "If the Devil Danced (In Empty Pockets)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/11_If_the_Devil_Danced_(In_Empty_Pockets)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Devil Comes Back to Georgia",
+      "artist": "Mark O'Connor",
+      "has_synced": false,
+      "path": "select/12_The_Devil_Comes_Back_to_Georgia_Mark_O'Connor.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Devil Comes Back to Georgia (Album Version)",
+      "artist": "Mark O Connor",
+      "has_synced": true,
+      "path": "select/13_The_Devil_Comes_Back_to_Georgia_(Album_Version)_Mark_O_Connor.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Devil Went Down to Georgia",
+      "artist": "The Charlie Daniels Band",
+      "has_synced": true,
+      "path": "select/14_The_Devil_Went_Down_to_Georgia_The_Charlie_Daniels_Band.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Devil Went Down To Georgia (Album Version)",
+      "artist": "The Charlie Daniels Band",
+      "has_synced": true,
+      "path": "select/15_The_Devil_Went_Down_To_Georgia_(Album_Version)_The_Charlie_Daniels_Band.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Devil Went Down to Georgia (Album Version)",
+      "artist": "The Charlie Daniels Band",
+      "has_synced": true,
+      "path": "select/16_The_Devil_Went_Down_to_Georgia_(Album_Version)_The_Charlie_Daniels_Band.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Run Devil Run",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/17_Run_Devil_Run_Girls'_Generation.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Devil",
+      "artist": "Papa Roach",
+      "has_synced": false,
+      "path": "select/pl_01_Devil_Papa_Roach.txt"
+    }
+  ]
+}
