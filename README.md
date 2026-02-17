@@ -1,0 +1,72 @@
+# Papa Roach – Devil
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+If all I have is now,
+No consequences
+Would I go touch the flame
+Or would I run for the exit?
+I fought this all my life
+The blood shedding like never
+before
+But I finally see your face
+It's just a mirror looking back
+at me
+My reflection is all I see
+I don't wanna finish what we
+started
+I never should've let you in
+You thought I was an easy target
+Now I know who you are, who the
+devil is
+You can try to take my salvation
+You can try to take everything
+I'm not a slave to your
+temptation
+'Cause I know who you are and
+who the devil is
+There's nowhere safe to hide
+I can feel your presence
+But we've been waging war
+Since you fell from the heavens
+I fought this every night
+It feels like I've already been
+here before
+Well I'm looking into your eyes
+And my reflection's looking back
+at me
+And the devil is all I see
+I don't wanna finish what we
+started
+I never should've let you in
+You thought I was an easy target
+Now I know who you are, who the
+devil is
+You can try to take my salvation
+You can try to take everything
+I'm not a slave to your
+temptation
+'Cause I know who you are and
+who the devil is
+I had enough of you, 'cause you
+took enough away from me
+The lies I've lived became
+everything I believe
+But the truth is that, the devil
+in you is me
+The devil in you is me
+The devil in you is me
+I don't wanna finish what we
+started
+I never should've let you in
+You thought I was an easy target
+Now I know who you are, who the
+devil is
+You can try to take my salvation
+You can try to take everything
+I'm not a slave to your
+temptation
+'Cause I know who you are and
+who the devil is
+```
